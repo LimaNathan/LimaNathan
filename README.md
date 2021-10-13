@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @LimaNathan
-- 👀 I’m interested in mobile technologies
-- 🌱 I’m currently learning Java and Flutter
