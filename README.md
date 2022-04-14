@@ -39,10 +39,6 @@ Basic english, just to read some documentation.
 
 ---
 
-- [Dancing with OAuth: a step by step guide](https://dev.to/anabella/dancing-with-oauth-emp)
-
----
-
 # 📚 Education
 
 ## Technological Superior in Analysis and Development of Systems
