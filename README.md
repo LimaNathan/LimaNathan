@@ -1,6 +1,6 @@
 # Resume
 
-> I am a mobile development student, studying systems analysis and development at Lourenço Filho College.
+> I am a mobile developer, always looking for better.
 > 
 
 # ☎️ Contact information
@@ -19,6 +19,12 @@
 
 Structured cabling, assembly and maintenance of computers, repairs to the telephony network
 
+## Mobile Developer
+
+***Fortaleza Security Secretary**, Fortaleza – CE*
+
+Flutter Mobile developer.
+
 ---
 
 # 🛠 Skills
@@ -35,7 +41,7 @@ I started in Flutter a short time ago, I have already consolidated the knowledge
 
 ### English
 
-Basic english, just to read some documentation.
+Basic english, just to read some documentation, and understand a simple conversation
 
 ---
 
@@ -43,6 +49,6 @@ Basic english, just to read some documentation.
 
 ## Technological Superior in Analysis and Development of Systems
 
-*2019 - 2022 (Currently in the 5 period)*
+*2019 - 2022 Concluded*
 
 *Brazil - Fortaleza/CE*
